@@ -5,5 +5,5 @@ ta_dbt:
       type: duckdb
       path: ta.duckdb
       threads: 8
-      extensions:
-        - fts
+      # extensions:
+      #   - fts
